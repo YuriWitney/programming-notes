@@ -7,3 +7,4 @@ O método da classe será substituida por uma função jest, cujo valor retornad
 
 # Miscelânia:
 1. Quero obter um Json final, cujo hoje só tenho uma parte. Poderia mockar a parte que falta para um teste TDD, a partir dele, programar o restante do json desejado.
+2. é possível mockar uma função que esteja dentro de outras funções com jest.fn(), a fim de fazer um teste passar
