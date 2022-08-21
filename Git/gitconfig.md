@@ -19,5 +19,5 @@
 
 # Miscelânia:
 
-1. setar para o editor especifico (Ex: VSCode):
+1. setar para o editor especifico (Ex: VSCode):<br />
    `git config --global core.editor code`
