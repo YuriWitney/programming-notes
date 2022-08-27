@@ -10,3 +10,8 @@
 
 Exemplo:<br /><br />
 `git log --pretty=format:'%C(blue)%h%C(red)%d %C(white)%s - %C(cyan)%cn, %C(green)%cr'`
+
+# Git commit:
+
+1. Adicionar alteração ao commit anterior, sem mensagem<br /><br />
+`git commit --amend --no-edit`
