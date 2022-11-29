@@ -10,3 +10,9 @@
 
 Exemplo:<br /><br />
 `git log --pretty=format:'%C(blue)%h%C(red)%d %C(white)%s - %C(cyan)%cn, %C(green)%cr'`
+
+# Criar Tags:
+
+1. Annotated:<br /><br />
+`git tag -a "1.0.0" -m "1.0.0"`<br /><br />
+Cria tag do tipo annotate com a mensagem 1.0.0.
