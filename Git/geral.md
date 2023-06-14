@@ -16,3 +16,8 @@ Exemplo:<br /><br />
 1. Annotated:<br /><br />
 `git tag -a "1.0.0" -m "1.0.0"`<br /><br />
 Cria tag do tipo annotate com a mensagem 1.0.0.
+
+# Git commit:
+
+1. Adicionar alteração ao commit anterior, sem mensagem<br /><br />
+`git commit --amend --no-edit`
